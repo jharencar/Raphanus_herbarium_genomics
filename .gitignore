@@ -47,3 +47,22 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Large sequence data and references (keep local only)
+*.fna
+*.fa
+*.fasta
+*.fas
+*.ffn
+*.faa
+*.frn
+*.gbff
+*.gbk
+*.gb
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+
+# macOS
+.DS_Store
