@@ -66,3 +66,6 @@ rsconnect/
 
 # macOS
 .DS_Store
+
+# Microsoft Office / Excel lock files (e.g. ~$workbook.xlsx)
+~$*
